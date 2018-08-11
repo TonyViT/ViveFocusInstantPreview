@@ -28,7 +28,7 @@ If you don't plan to modify the standalone app, using it is pretty simple:
 ### Build the preview app
 If you want to build the preview app:
 * Download the repo and open the project with Unity
-* Import the Unity Remote 4 project from the Asset Store: [link](https://assetstore.unity.com/packages/templates/unity-remote-4-18106)
+* Import the Unity Remote 4 project ~~from the Asset Store: [link](https://assetstore.unity.com/packages/templates/unity-remote-4-18106)~~ It has been deprecated on the Asset Store, so I've mirrored the package [here](https://drive.google.com/open?id=1gBNPOaATMhQMQ84kLRig8dVoZ2pPg2hx)
 * If a pop-up asks you if you're ok with importing a complete project, be brave and say Yes
 * Import the WaveVR Unity Plugin: you can download WaveVR SDK from this [link](https://hub.vive.com/en-US/profile/material-download). Inside the downloaded ZIP there is a folder dedicated to the Unity plugins: you have to import both the WaveVR plugin and the Samples package.
 * If there is the need to update APIs, be brave and say Yes to that Unity dialog ("I made a backup, go ahead!")
